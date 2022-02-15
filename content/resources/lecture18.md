@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides from the lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-02-principles-of-macroeconomics-fall-2004/927680658e5ee17fc3441816f799c6e2_lecture18.pdf
+file: /media/courses/14-02-principles-of-macroeconomics-fall-2004/927680658e5ee17fc3441816f799c6e2_lecture18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture18.pdf
 uid: 92768065-8e5e-e17f-c344-1816f799c6e2

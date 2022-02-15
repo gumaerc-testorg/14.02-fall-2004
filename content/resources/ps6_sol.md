@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions for the assigned problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-02-principles-of-macroeconomics-fall-2004/4f0453d93de1132c77688ea4c4885324_ps6_sol.pdf
+file: /media/courses/14-02-principles-of-macroeconomics-fall-2004/4f0453d93de1132c77688ea4c4885324_ps6_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps6_sol.pdf
 uid: 4f0453d9-3de1-132c-7768-8ea4c4885324
