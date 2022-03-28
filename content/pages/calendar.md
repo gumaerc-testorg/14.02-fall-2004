@@ -2,11 +2,12 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Calendar
 uid: 78521545-8251-bc02-6858-da518a9ec2cf
 ---
 
-The Lecture-Recitation version of this course is reflected in the calender below as well as in the [readings]({{< baseurl >}}/pages/readings) and [lecture notes]({{< baseurl >}}/pages/lecture-notes) sections of this course web site.
+The Lecture-Recitation version of this course is reflected in the calender below as well as in the {{< resource_link 34e21821-527b-5d61-3cd8-48131a2e3c3d "readings" >}} and {{< resource_link 35905406-5bc4-9017-484c-f36465a65f2a "lecture notes" >}} sections of this course web site.
 
 {{< tableopen >}}
 {{< theadopen >}}
