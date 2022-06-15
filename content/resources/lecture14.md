@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides from the lecture presentation.
-file: /media/courses/14-02-principles-of-macroeconomics-fall-2004/6f7e8a5aa011953836fe44c93a2b310f_lecture14.pdf
+file: /courses/14-02-principles-of-macroeconomics-fall-2004/6f7e8a5aa011953836fe44c93a2b310f_lecture14.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lecture14.pdf
 uid: 6f7e8a5a-a011-9538-36fe-44c93a2b310f
 ---
+Slides from the lecture presentation.
+
