@@ -5,6 +5,7 @@ file: /courses/14-02-principles-of-macroeconomics-fall-2004/6a15c0d4969680da8950
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture22.pdf
 uid: 6a15c0d4-9696-80da-8950-a6b361763aaf
 ---
 Slides from the lecture presentation.
-

@@ -5,6 +5,7 @@ file: /courses/14-02-principles-of-macroeconomics-fall-2004/d4e338a6cd62a42b3668
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1_sol.pdf
 uid: d4e338a6-cd62-a42b-3668-ee8e7eacb10c
 ---
 Solutions to the quiz problems.
-

@@ -5,6 +5,7 @@ file: /courses/14-02-principles-of-macroeconomics-fall-2004/55ceeca4be0c359ee165
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4_sol.pdf
 uid: 55ceeca4-be0c-359e-e165-2ee25a2d6d0b
 ---
 Solutions for the assigned problems.
-
