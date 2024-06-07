@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides from the lecture presentation.
 file: /courses/14-02-principles-of-macroeconomics-fall-2004/6a15c0d4969680da8950a6b361763aaf_lecture22.pdf
+file_size: 17423
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
