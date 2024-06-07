@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions for the assigned problems.
 file: /courses/14-02-principles-of-macroeconomics-fall-2004/3bcf1d874936535cd108db53fb02e090_ps2_sol.pdf
+file_size: 207566
 file_type: application/pdf
 learning_resource_types:
 - Assignments
