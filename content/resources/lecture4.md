@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides from the lecture presentation.
-file: /courses/14-02-principles-of-macroeconomics-fall-2004/0439e6adf046d06efe8d825b296ba748_lecture4.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-fall-2004/0439e6adf046d06efe8d825b296ba748_lecture4.pdf
 file_size: 28382
 file_type: application/pdf
 learning_resource_types:

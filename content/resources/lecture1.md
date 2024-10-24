@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides from the introductory lecture to the course.
-file: /courses/14-02-principles-of-macroeconomics-fall-2004/dabb2c38e6c9ce7e27fbba1e8de2d6e6_lecture1.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-fall-2004/dabb2c38e6c9ce7e27fbba1e8de2d6e6_lecture1.pdf
 file_size: 16850
 file_type: application/pdf
 learning_resource_types:
