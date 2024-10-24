@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assigned homework problems.
-file: /courses/14-02-principles-of-macroeconomics-fall-2004/926981d5d34be345cd6988a9213ca722_ps1.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-fall-2004/926981d5d34be345cd6988a9213ca722_ps1.pdf
 file_size: 20762
 file_type: application/pdf
 learning_resource_types:

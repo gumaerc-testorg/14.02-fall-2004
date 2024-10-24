@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to quiz problems.
-file: /courses/14-02-principles-of-macroeconomics-fall-2004/73e1a7c752a0c6083c3dd5cf77e2cf8f_quiz2_sol.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-fall-2004/73e1a7c752a0c6083c3dd5cf77e2cf8f_quiz2_sol.pdf
 file_size: 100127
 file_type: application/pdf
 learning_resource_types:
